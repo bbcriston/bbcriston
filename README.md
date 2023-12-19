@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Criston
+- 👀 I’m interested in Software development
+- 🌱 I’m currently learning Rust
+- 💞️ I’m looking to collaborate on React-Native
+- 📫 Reach me via Email @ criston@barrierbreak.com
